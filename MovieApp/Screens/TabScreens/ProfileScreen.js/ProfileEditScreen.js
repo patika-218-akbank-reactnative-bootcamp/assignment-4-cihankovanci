@@ -7,15 +7,15 @@ import {
  
 } from 'react-native';
 
-const SignUpScreen = props => {
+const ProfileEditScreen = props => {
   return (
     <SafeAreaView>
-      <Text>SignUpScreen</Text>
+      <Text>ProfileEditScreen</Text>
     </SafeAreaView>
   );
 };
 
-export default SignUpScreen;
+export default ProfileEditScreen;
 
 const styles = StyleSheet.create({
   container: {
